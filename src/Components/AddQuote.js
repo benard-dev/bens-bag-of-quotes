@@ -2,7 +2,9 @@ import React from 'react'
 
 const AddQuote = () => {
   return (
-    <div>AddQuote</div>
+    <div className="secondary">
+        
+    </div>
   )
 }
 
